@@ -22,4 +22,7 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-There are three different types of visualization shown on this page. The first is a bar chart.
+Three different types of visualization are shown on this page using the same data OECD for government debt. 
+The bar chart displays a straightforward comparison of government debt across different countries in 2023. Each bar represents a country, with the height corresponding to the percentage of gross debt relative to GDP. Since the countries are arranged in increasing order, it's easy to compare them by value.
+The heat map introduces a time series from 1995 to 2018. Red indicates a higher value while blue indicates a lower value. It's particularly useful for identifying overall trends for historical changes and comparisons between countries.
+I chose a line chart for the third graph where each line represents a country. It helps the audience see how debt levels have changed for individual countries over the years and allows for comparison of trends as well. Compared to the heat map, the line chart serves better in tracking trends and identifying pivotal moments.
