@@ -10,4 +10,4 @@ I hope to explore ways to incorporate data visualization into my work in the fut
 
 # Portfolio
 Here's where all my work for this class will go!
-Here's the link to dataviz assignment (/dataviz2.md)
+Here's the link to dataviz assignment(/dataviz2.md)
