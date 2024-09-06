@@ -21,3 +21,5 @@
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+There are three different types of visualization shown on this page. The first is a bar chart.
