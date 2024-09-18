@@ -1,11 +1,11 @@
-1. The original data visualization:
+# The original data visualization:
 https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
 
 This graph shows the average time Americans spent with different people in their lives, by age.
 I chose this chart because it has a wide audience due to its straightforward theme that resonates easily. 
 In addition, the data presented in this chart is very detailed and has room for digging in.
 
-2. The sketched solution
+# The sketched solution
 
 To make the first draft of the solution in Tableau, I followed some instructions in the Watch Me Viz video(https://www.youtube.com/watch?v=XZliCbAyBX8&t=376s) of this dataset.
 
@@ -19,11 +19,17 @@ To make the first draft of the solution in Tableau, I followed some instructions
 
 I tried to make the original graph less busy through the following adjustments:
 
-> Remove dots on the lines
+1. Remove dots on the lines
 
-> Remove labels on the x and y-axis, and add a description of the measurement in the title
+2. Remove labels on the x and y-axis, and add a description of the measurement in the title
 
-> Use more contrasting colors to distinguish the lines
+3. Use more contrasting colors to distinguish the lines
 
-> Simplify the category names
+4. Simplify the category names
+
+Despite that, the main issues of the graph remain: Several lines intersect and overlap, especially between the ages of 20 and 60, making it difficult to distinguish trends. The information is overwhelming and lack focus with too many categories and data points, making it difficult to grasp the most significant patterns quickly. 
+
+It's difficult to address these issues while maintaining the integrity of the original data.
+
+
 
