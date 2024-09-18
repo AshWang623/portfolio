@@ -16,3 +16,14 @@ To make the first draft of the solution in Tableau, I followed some instructions
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+I tried to make the original graph less busy through the following adjustments:
+
+> Remove dots on the lines
+
+> Remove labels on the x and y-axis, and add a description of the measurement in the title
+
+> Use more contrasting colors to distinguish the lines
+
+> Simplify the category names
+
