@@ -7,6 +7,10 @@ In addition, the data presented in this chart is very detailed and has room for 
 
 Data Visualization Effectiveness Profile insights:
 
+Based on the critique method, my ratings for the graph's usefulness, completeness, and truthfulness are relatively high. The visualization is a comprehensive and accurate demonstration of the dataset. 
+The ratings for aesthetics and engagement are neutral. The graph has a clean graph style and readable labels, yet the information density makes it less pleasing and also reduces engagement.
+The ratings for perceptibility and intuitiveness are lower. Grasping and interpreting the trends take more effort than desired due to the overlapping lines.
+Therefore, I decided to put my focus on simplifying the chart by improving the aesthetics and enhance the clarity of the lines.
 
 # Sketched solution
 
