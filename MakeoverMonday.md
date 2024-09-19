@@ -53,3 +53,6 @@ What questions came up?
 
 To the viewers, there is some ambiguity in the categories. In this dataset, children and partners are excluded from the family category. Further clarification may be needed in the annotation.
 The viewers are also curious about the reason behind each dominant pattern and turning points.
+
+# The final solution
+
