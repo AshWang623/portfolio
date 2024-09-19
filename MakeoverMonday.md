@@ -5,7 +5,7 @@ This graph shows the average time Americans spent with different people in their
 I chose this chart because it has a wide audience due to its straightforward theme that resonates easily. 
 In addition, the data presented in this chart is very detailed and has room for digging in.
 
-Data Visualization Effectiveness Profile:
+Data Visualization Effectiveness Profile insights:
 
 
 # Sketched solution
@@ -67,3 +67,5 @@ The viewers are also curious about the reason behind each dominant pattern and t
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+For the final version, I added an interactive filter that allow the viewers to tick the lines they want to observe and compare individually. I also segmented the x-axis with a few reference lines by the four life stages. The segmentation lead the viewers to notice the correlation between turning points of the lines and life stage transitions.
