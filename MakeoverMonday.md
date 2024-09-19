@@ -1,11 +1,14 @@
-# The original data visualization:
+# Original data visualization:
 https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
 
 This graph shows the average time Americans spent with different people in their lives, by age.
 I chose this chart because it has a wide audience due to its straightforward theme that resonates easily. 
 In addition, the data presented in this chart is very detailed and has room for digging in.
 
-# The sketched solution
+Data Visualization Effectiveness Profile:
+
+
+# Sketched solution
 
 To make the first draft of the solution in Tableau, I followed some instructions in the Watch Me Viz video(https://www.youtube.com/watch?v=XZliCbAyBX8&t=376s) of this dataset.
 
@@ -54,5 +57,5 @@ What questions came up?
 To the viewers, there is some ambiguity in the categories. In this dataset, children and partners are excluded from the family category. Further clarification may be needed in the annotation.
 The viewers are also curious about the reason behind each dominant pattern and turning points.
 
-# The final solution
+# Final solution
 
