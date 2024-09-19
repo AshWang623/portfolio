@@ -46,6 +46,7 @@ The line chart is a good choice in terms of intuitiveness. The viewers are more 
 The completeness of the original data is favorable for viewers interested in the topic and who would like to spend a longer time parsing. However, for those with limited watch time, it's hard to draw many conclusions despite all the information given. All viewers identify the growing trend of time spent alone at first glance, as it stands out from the cluster.
 
 What didn't work?
+
 The lines are too busy together. It's relatively easier to focus on one line and recognize the pattern, but a lot harder to select two or three lines at a time and compare them, as the other lines would be distracting. Even though it's not the priority, the viewers do try to compare different lines and find correlations, most times between time spent with partner, family, and children.
 
 What questions came up?
