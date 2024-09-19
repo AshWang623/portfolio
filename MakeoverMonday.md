@@ -17,7 +17,7 @@ To make the first draft of the solution in Tableau, I followed some instructions
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-I tried to make the original graph less busy through the following adjustments:
+In this draft, I tried to make the original graph simpler and clearer through the following adjustments:
 
 1. Remove dots on the lines
 
@@ -27,9 +27,28 @@ I tried to make the original graph less busy through the following adjustments:
 
 4. Simplify the category names
 
-Despite that, the main issues of the graph remain: Several lines intersect and overlap, especially between the ages of 20 and 60, making it difficult to distinguish trends. The information is overwhelming and lack focus with too many categories and data points, making it difficult to grasp the most significant patterns quickly. 
+Despite being more aesthetically pleasing, the graph's main issues remain unsolved: Several lines intersect and overlap, especially between the ages of 20 and 60, making it difficult to distinguish trends. The information is overwhelming and lack focus with too many categories and data points, making it difficult to grasp the most significant patterns quickly. 
 
-It's difficult to address these issues while maintaining the integrity of the original data.
+It's difficult to address these issues while maintaining the integrity of the original data. I had assumed some potential improvements, yet they need validation through the viewers' responses:
 
+1. Change to a stacked bar chart to avoid the lines' overlap problem. This would pivot the focus of the visualization from the trend of each category to the ratio among categories, which falls short of the original intention.
+   
+2. Remove or aggregate certain categories to avoid clutter. Again, this will result in a loss of information, which may not be what the audience wants in exchange for readability.
 
+3. Segment the x-axis into different age groups. This may help guide the audience to focus on one segment at a time to identify and interpret the trends.
 
+# Interview results
+I utilized the seed question sets of the in-class critique for the interview. Here is the summarization of responses：
+
+What worked?
+
+The line chart is a good choice in terms of intuitiveness. The viewers are more interested in the trend of each line than their relationships.
+The completeness of the original data is favorable for viewers interested in the topic and who would like to spend a longer time parsing. However, for those with limited watch time, it's hard to draw many conclusions despite all the information given. All viewers identify the growing trend of time spent alone at first glance, as it stands out from the cluster.
+
+What didn't work?
+The lines are too busy together. It's relatively easier to focus on one line and recognize the pattern, but a lot harder to select two or three lines at a time and compare them, as the other lines would be distracting. Even though it's not the priority, the viewers do try to compare different lines and find correlations, most times between time spent with partner, family, and children.
+
+What questions came up?
+
+To the viewers, there is some ambiguity in the categories. In this dataset, children and partners are excluded from the family category. Further clarification may be needed in the annotation.
+The viewers are also curious about the reason behind each dominant pattern and turning points.
