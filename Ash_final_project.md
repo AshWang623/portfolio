@@ -55,6 +55,9 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
     - Empower consumers with actionable steps toward adopting organic fashion and sustainable practices.
 
 # Initial Sketches
+![P1](1.jpg)
+
+
 
 # Data Source
 - Textile Exchange
