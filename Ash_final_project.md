@@ -57,7 +57,7 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 # Initial Sketches
 ![P1](1.jpg)
 ![P2](2.jpg)
-![P2](2.jpg)
+![P3](3.jpg)
 
 
 
