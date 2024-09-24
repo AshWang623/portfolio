@@ -53,3 +53,19 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
     - Summarize the major environmental costs and solutions.
 
     - Empower consumers with actionable steps toward adopting organic fashion and sustainable practices.
+
+# Initial Sketches
+
+# Data Source
+- Textile Exchange
+  - https://textileexchange.org/knowledge-center/reports/materials-market-report-2023/
+  - Textile Exchange's report includes materials produced for the fashion, textile, and apparel industries as well as for other industries.
+- Ellen McArthur Foundation
+  - https://www.ellenmacarthurfoundation.org/a-new-textiles-economy
+  - The foundation has detailed reports and datasets on circular fashion, waste, and carbon emissions. The related data can be extracted from their reports.
+- CDP
+  - https://www.cdp.net/en/data/corporate-data#02d4482d332e1aef3437cd61c9bcc624
+  - CDP holds the most comprehensive collection of corporate environmental data globally, including the sustainability disclosures of fashion brands.
+
+# Method and medium
+I plan to use Shorthand as the primary platform to create a narrative combining multimedia elements with data visualizations. For data visualizations, I will use Tableau to create interactive charts. These charts will be embedded within the Shorthand story.
