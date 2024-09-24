@@ -10,7 +10,7 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 # Project Structure
 1. Introduction: Fashion's Environmental Toll
 
-What is your Lululemon made of?
+  - What is your Lululemon made of?
 
 Provide startling statistics on the fashion industry’s contribution to pollution.
 
