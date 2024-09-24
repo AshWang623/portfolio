@@ -25,16 +25,19 @@ Visualization: Compare water usage, carbon footprint, and waste of different fab
 Manufacturing & Dyeing: Explain the chemical-heavy processes that result in water pollution and toxic runoff.
 Transportation: Focus on the carbon emissions caused by global supply chains, with an emphasis on fast fashion.
 Visualization: A map showcasing global supply chains and associated emissions.
+
 4. The Afterlife of Clothes: Waste and Disposal
 
 Landfills and Incineration: Discuss the fate of clothes that don’t get recycled and their environmental impact.
 Second-hand Markets: Examine how used clothes are shipped to developing countries, causing problems like excess waste and local market disruption.
 Visualization: Flow of used clothes from the West to developing regions.
+
 5. Advocating for Sustainable Fashion
 
 Organic Fashion: Introduce the concept of sustainable and ethical fashion practices—using eco-friendly materials, fair labor practices, and mindful consumption.
 Consumer Behavior: Encourage slow fashion, clothing repair, thrifting, and recycling initiatives.
 Visualization: A positive comparison of traditional vs. organic fashion’s environmental impact.
+
 6. Conclusion: A Call to Action
 
 Summarize the major environmental costs and solutions.
