@@ -10,35 +10,48 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 # Project Structure
 1. Introduction: Fashion's Environmental Toll
 
-Opening with startling statistics on the fashion industry’s contribution to pollution.
-Briefly mention the stages in the fashion lifecycle (material production, supply chain, waste generation).
+What is your Lululemon made of?
+
+Provide startling statistics on the fashion industry’s contribution to pollution.
 
 2. Environmental Cost of Clothing Types
 
+Educate the audience about different types of materials and clothes, and demonstrate the related environmental costs.
+
 Cotton: Discuss its water-intensive farming and pesticide use.
+
 Polyester & Synthetics: Highlight their reliance on fossil fuels and how microplastics enter water systems.
+
 Alternative Materials: Introduce new sustainable options like organic cotton, hemp, and recycled fabrics.
+
 Visualization: Compare water usage, carbon footprint, and waste of different fabric types.
 
 3. The Supply Chain: Pollution Along the Way
 
 Manufacturing & Dyeing: Explain the chemical-heavy processes that result in water pollution and toxic runoff.
+
 Transportation: Focus on the carbon emissions caused by global supply chains, with an emphasis on fast fashion.
+
 Visualization: A map showcasing global supply chains and associated emissions.
 
 4. The Afterlife of Clothes: Waste and Disposal
 
 Landfills and Incineration: Discuss the fate of clothes that don’t get recycled and their environmental impact.
+
 Second-hand Markets: Examine how used clothes are shipped to developing countries, causing problems like excess waste and local market disruption.
+
 Visualization: Flow of used clothes from the West to developing regions.
 
 5. Advocating for Sustainable Fashion
 
 Organic Fashion: Introduce the concept of sustainable and ethical fashion practices—using eco-friendly materials, fair labor practices, and mindful consumption.
+
 Consumer Behavior: Encourage slow fashion, clothing repair, thrifting, and recycling initiatives.
+
 Visualization: A positive comparison of traditional vs. organic fashion’s environmental impact.
 
-6. Conclusion: A Call to Action
+6. Conclusion
 
 Summarize the major environmental costs and solutions.
+
 Empower consumers with actionable steps toward adopting organic fashion and sustainable practices.
