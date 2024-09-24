@@ -10,7 +10,7 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 # Project Structure
 1. Introduction: Fashion's Environmental Toll
 
-    - What is your Lululemon made of?
+    - What is your Lululemon made of? Do you know about the environmental cost behind each purchase?
 
     - Provide startling statistics on the fashion industry’s contribution to pollution.
 
@@ -18,19 +18,17 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 
     - Educate the audience about different types of materials and clothes, and demonstrate the related environmental costs.
 
-    - Cotton: Discuss its water-intensive farming and pesticide use.
-
-    - Polyester & Synthetics: Highlight their reliance on fossil fuels and how microplastics enter water systems.
-
-    - Alternative Materials: Introduce new sustainable options like organic cotton, hemp, and recycled fabrics.
+    - Cotton & Polyester & Synthetics & Alternative Materials: Introduce new sustainable options like organic cotton, hemp, and recycled fabrics.
 
     - Visualization: Compare water usage, carbon footprint, and waste of different fabric types.
 
 3. The Supply Chain: Pollution Along the Way
 
-    - Manufacturing & Dyeing: Explain the chemical-heavy processes that result in water pollution and toxic runoff.
+    - Manufacturing & Dyeing: The chemical-heavy processes that result in water pollution and toxic runoff.
 
-    - Transportation: Focus on the carbon emissions caused by global supply chains, with an emphasis on fast fashion.
+    - Transportation: Carbon emissions caused by global supply chains, with an emphasis on fast fashion.
+      
+    - The business logic behind the fashion industry
 
     - Visualization: A map showcasing global supply chains and associated emissions.
 
