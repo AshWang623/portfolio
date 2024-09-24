@@ -18,9 +18,9 @@ Finally, I want to advocate for alternatives to traditional fashion consumption 
 
     - Educate the audience about different types of materials and clothes, and demonstrate the related environmental costs.
 
-    - Cotton & Polyester & Synthetics & Alternative Materials: Introduce new sustainable options like organic cotton, hemp, and recycled fabrics.
+    - Cotton & Polyester & Synthetics & Alternative Materials
 
-    - Visualization: Compare water usage, carbon footprint, and waste of different fabric types.
+    - Visualization: Compare durability, water usage, carbon footprint, and degrading time of different fabric types.
 
 3. The Supply Chain: Pollution Along the Way
 
