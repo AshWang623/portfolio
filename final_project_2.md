@@ -15,13 +15,11 @@ More specifically, I think the younger generations like the Millennials and Gen 
 
 Since I am a Millennial myself, my approach to identifying representative individuals to interview is screening from my own social circle. These are my screening criteria:
 
-How often do they buy new clothes
-Whether they consider the environmental impact when making purchasing decisions
+  How often do they buy new clothes
+  
+  Whether they consider the environmental impact when making purchasing decisions
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
