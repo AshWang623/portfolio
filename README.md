@@ -12,5 +12,5 @@ I hope to explore ways to incorporate data visualization into my work in the fut
 
 [MakeoverMonday](/MakeoverMonday.md)
 
-Final_project 
+Final project 
 [Part I](/Ash_final_project.md)
