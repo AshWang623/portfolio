@@ -9,6 +9,7 @@ General: Fashion is one of the most pollutive industry on earth. Meanwhile, we a
 
 Viz 1: Contribution of the fashion industry to global pollution
 ![viz1](viz1.png)
+
 Viz 2: Clothing sales vs. Clothing utilization over the years
 ![viz2](viz2.png)
 
@@ -16,6 +17,7 @@ Main Point 1: Environmental Cost of Fabrics: Different fabrics have vastly diffe
 
 Viz 3: Radar chart for different fabrics
 ![viz3](viz3.png)
+
 Viz 4: Global market share of different fabrics, 2022
 ![viz4](viz4.png)
 
