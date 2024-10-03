@@ -34,7 +34,7 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 |-------------------------|--------------------------------|-------------|-------------|
 | Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|             |             |
 | Evaluate whether the story is engaging | The introduction was good, but some of the stats felt heavy and a bit technical. |             |             |
-| Evaluate whether the story incentivizes people to make changes   |   I might look into eco-friendly options if they were fashionable.| It makes people think but necessarily take action. Buying second-hand seems like a hassle.|             |
+| Evaluate whether the story incentivizes people to make changes   |I still care about styles and trends. I might look into eco-friendly options if they were fashionable.| It makes people think but necessarily take action. Buying second-hand seems like a hassle.|             |
 
 
 # Identified changes for Part III
