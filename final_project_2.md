@@ -32,7 +32,7 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|             |             |
+| Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|It would be better if the color of fabrics in the radar chart matches the market share.|             |
 | Evaluate whether the story is engaging | The introduction was good, but some of the stats felt heavy and a bit technical. |             |             |
 | Evaluate whether the story incentivizes people to make changes   |I still care about styles and trends. I might look into eco-friendly options if they were fashionable.| It makes people think but necessarily take action. Buying second-hand seems like a hassle.|             |
 
