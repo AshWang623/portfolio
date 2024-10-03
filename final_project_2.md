@@ -26,8 +26,8 @@ Text here!
 | Goal | Questions to Ask |
 |------|------------------|
 |  Evaluate the effectiveness of data visualizations    |                  |
-|      |                  |
-|      |                  |
+|  Evaluate whether the story is engaging    |                  |
+|  Evaluate whether the advocation incentivizes people to make changes   |                  |
 
 
 Text here!
