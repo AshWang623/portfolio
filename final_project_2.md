@@ -30,7 +30,7 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 ## Interview findings
 
-| Questions               | Interview 1 | Interview 2 | Interview 3 |
+| Questions               | Working fashion enthusiast | Interview 2 | College student concerned in environmental issues |
 |-------------------------|--------------------------------|-------------|-------------|
 | Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|It would be better if the color of fabrics in the radar chart matched the market share.| Some of the charts were hard to follow just because of how quickly you skimmed through. Maybe you could make it easier by highlighting the key takeaway in bold.|
 | Evaluate whether the story is engaging | The introduction was good, but some of the stats felt heavy and a bit technical. |I like the storytelling around the different materials. I didn’t know how much synthetic fabrics contributed to pollution, and that was a powerful moment.| It’s eye-opening to see how even donating clothes can have a negative impact. But I'm not sure how the supply chain part is connected to the overall problem |
@@ -45,5 +45,4 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 | The supply chain section felt unnecessary with less immediate engagement compared to other sections. |  Condense the supply chain story, maybe combine it with another section. |
 | Participants resonate most positively with the "afterlife of clothes" section, especially regarding the impact of clothing waste. |  Expand the "afterlife of clothes" section with more compelling visuals.|
 | Some participants expressed that sustainable fashion options seem costly or inconvenient, and they are not sure if they will make changes in clothes consumption. | Introduce sustainable fashion more clearly and provide more concrete actionable suggestions.|
-| ...add more rows as necessary            |                                                                                 |
 
