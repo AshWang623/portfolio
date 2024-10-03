@@ -41,13 +41,9 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| The radar chart was most discussed and well-received but a little overwhelming. | Highlight key insights within the visualization itself and its connection with the market share chart. |
+| The supply chain section felt unnecessary with less immediate engagement compared to other sections. |  Condense the supply chain story, maybe combine it with another section. |
+| Participants resonate most positively with the "afterlife of clothes" section, especially regarding the impact of clothing waste. |  Expand the "afterlife of clothes" section with more compelling visuals.|
+| Some participants expressed that sustainable fashion options seem costly or inconvenient, and they are not sure if they will make changes in clothes consumption. | Introduce sustainable fashion more clearly and provide more concrete actionable suggestions.|
 | ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-
 
