@@ -1,9 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+The Environmental Price of Fashion: Unveiling the Hidden Footprint from Fabric to Landfill
+
+Introduction: Have you ever thought about the environmental cost behind your fashionable leggings or printed t-shirt? They come at a high price—one that's not reflected on the tag.
+
+General: Fashion is one of the most pollutive industry on earth. Meanwhile we are buying more and more clothes and wear them less and less. It’s time to rethink the current clothing system and our role as consumers.
+
+Viz 1: Contribution of fashion industry to global pollution
 
 
-Text here!
 
 # User research 
 
