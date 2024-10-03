@@ -23,12 +23,10 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 | Goal | Questions to Ask |
 |------|------------------|
-|  Evaluate the effectiveness of data visualizations    |                  |
-|  Evaluate whether the story is engaging    |                  |
-|  Evaluate whether the story incentivizes people to make changes   |                  |
+|  Evaluate the effectiveness of data visualizations    |  Were there any parts of the visualization that felt confusing or difficult to interpret?  What additional information may help to resolve confusion?            |
+|  Evaluate whether the story is engaging    | Were there any specific sections of the story that resonated with you? What parts of the story felt less engaging?                |
+|  Evaluate whether the story incentivizes people to make changes   | After seeing the story, do you feel motivated to make changes in your clothing choices? What barriers might prevent you from taking the actions suggested in the story                |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
