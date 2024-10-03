@@ -32,7 +32,7 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|It would be better if the color of fabrics in the radar chart matched the market share.|             |
+| Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|It would be better if the color of fabrics in the radar chart matched the market share.| Some of the charts were hard to follow just because of how quickly you skimmed through. Maybe you could make it easier by highlighting the key takeaway in bold.|
 | Evaluate whether the story is engaging | The introduction was good, but some of the stats felt heavy and a bit technical. |   | It’s eye-opening to see how even donating clothes can have a negative impact. But I'm not sure how the supply chain part is connected to the overall problem |
 | Evaluate whether the story incentivizes people to make changes   |I still care about styles and trends. I might look into eco-friendly options if they were fashionable.| It makes people think but necessarily take action. Buying second-hand seems like a hassle.| It definitely makes me think. But I wish sustainable fashion were more affordable. Cost is a major barrier. |
 
