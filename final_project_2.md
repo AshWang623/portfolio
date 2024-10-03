@@ -8,26 +8,26 @@ Introduction: Have you ever thought about the environmental cost behind your fas
 General: Fashion is one of the most pollutive industry on earth. Meanwhile, we are buying more and more clothes and wear them less and less. It’s time to rethink the current clothing system and our role as consumers.
 
 Viz 1: Contribution of the fashion industry to global pollution
-![viz1](viz1.jpg)
+![viz1](viz1.png)
 Viz 2: Clothing sales vs. Clothing utilization over the years
-![viz2](viz2.jpg)
+![viz2](viz2.png)
 
 Main Point 1: Environmental Cost of Fabrics: Different fabrics have vastly different environmental impacts. Cotton, for example, uses enormous amounts of water, while polyester is derived from oil and takes decades to degrade. As you can see, the industry still highly relies on fossil-based synthetics.
 
 Viz 3: Radar chart for different fabrics
-![viz3](viz3.jpg)
+![viz3](viz3.png)
 Viz 4: Global market share of different fabrics, 2022
-![viz4](viz4.jpg)
+![viz4](viz4.png)
 
 Main Point 2: Supply Chain Pollutions: The impact is not just about the materials. The global supply chain adds another layer of pollution. For instance, dyeing fabrics is responsible for water contamination, while transporting garments across the globe creates massive carbon emissions."
 
 Viz 5: Pollution along the supply chain
-![viz5](viz5.jpg)
+![viz5](viz5.png)
 
 Main Point 3: The Afterlife of Clothes: The story doesn’t end when you stop wearing your clothes. Each year, 73% of clothing ends up landfilled or incinerated, releasing harmful toxins into the environment. Even donated clothes are often shipped to developing countries, overwhelming local markets and contributing to excess waste.
 
 Viz 6: Material flows for clothing
-![viz6](viz6.jpg)
+![viz6](viz6.png)
 
 Call to Action: Remember that the power to make a change lies in our choices. By choosing organic fabrics, buying second-hand, and supporting sustainable brands, we can reduce our impact. 
 
