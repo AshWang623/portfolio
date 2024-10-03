@@ -1,15 +1,29 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes/storyboards
 The Environmental Price of Fashion: Unveiling the Hidden Footprint from Fabric to Landfill
 
 Introduction: Have you ever thought about the environmental cost behind your fashionable leggings or printed t-shirt? They come at a high price—one that's not reflected on the tag.
 
-General: Fashion is one of the most pollutive industry on earth. Meanwhile we are buying more and more clothes and wear them less and less. It’s time to rethink the current clothing system and our role as consumers.
+General: Fashion is one of the most pollutive industry on earth. Meanwhile, we are buying more and more clothes and wear them less and less. It’s time to rethink the current clothing system and our role as consumers.
 
-Viz 1: Contribution of fashion industry to global pollution
+Viz 1: Contribution of the fashion industry to global pollution
 
+Viz 2: Clothing sales vs. Clothing utilization over the years
 
+Main Point 1: Environmental Cost of Fabrics: Different fabrics have vastly different environmental impacts. Cotton, for example, uses enormous amounts of water, while polyester is derived from oil and takes decades to degrade. As you can see, the industry still highly relies on fossil-based synthetics.
+
+Viz 3: Radar chart for different fabrics
+
+Viz 4: Global market share of different fabrics, 2022
+
+Main Point 2: Supply Chain Pollutions: The impact is not just about the materials. The global supply chain adds another layer of pollution. For instance, dyeing fabrics is responsible for water contamination, while transporting garments across the globe creates massive carbon emissions."
+
+Viz 5: Pollution along the supply chain
+
+Main Point 3: The Afterlife of Clothes: The story doesn’t end when you stop wearing your clothes. Each year, 73% of clothing end up landfilled or incinerated, releasing harmful toxins into the environment. Even donated clothes are often shipped to developing countries, overwhelming local markets and contributing to excess waste.
+
+Viz 6: Material flows for clothing
 
 # User research 
 
