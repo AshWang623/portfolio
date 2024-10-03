@@ -27,7 +27,7 @@ Text here!
 |------|------------------|
 |  Evaluate the effectiveness of data visualizations    |                  |
 |  Evaluate whether the story is engaging    |                  |
-|  Evaluate whether the advocation incentivizes people to make changes   |                  |
+|  Evaluate whether the story incentivizes people to make changes   |                  |
 
 
 Text here!
