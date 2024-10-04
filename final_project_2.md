@@ -1,4 +1,4 @@
-| [home page](https://ashwang623.github.io/portfolio/)) | [visualizing debt](dataviz2.md) | [critique by design](MakeoverMonday.md) | [final project I](final-project-1.md) | [final project II](final-project-2.md) | [final project III](final-project-part-three) |
+| [home page](https://ashwang623.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](MakeoverMonday.md) | [final project I](final-project-1.md) | [final project II](final-project-2.md) | [final project III](final-project-part-three) |
 
 # Wireframes/storyboards
 The Environmental Price of Fashion: Unveiling the Hidden Footprint from Fabric to Landfill
