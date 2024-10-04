@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ashwang623.github.io/portfolio/)) | [visualizing debt](dataviz2.md) | [critique by design](MakeoverMonday.md) | [final project I](final-project-1.md) | [final project II](final-project-2.md) | [final project III](final-project-part-three) |
 
 # Wireframes/storyboards
 The Environmental Price of Fashion: Unveiling the Hidden Footprint from Fabric to Landfill
@@ -64,7 +64,7 @@ Since I am a Millennial myself, my approach to identifying representative indivi
 
 ## Interview findings
 
-| Questions               | Working fashion enthusiast | College student | Youngs environmentalist |
+| Questions               | Working fashion enthusiast, 23 | College student, 23 | Young environmentalist, 26 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Evaluate the effectiveness of data visualizations | The radar chart was interesting, but it felt a little overwhelming.|It would be better if the color of fabrics in the radar chart matched the market share.| Some of the charts were hard to follow just because of how quickly you skimmed through. Maybe you could make it easier by highlighting the key takeaway in bold.|
 | Evaluate whether the story is engaging | The introduction was good, but some of the stats felt heavy and a bit technical. |I like the storytelling around the different materials. I didn’t know how much synthetic fabrics contributed to pollution, and that was a powerful moment.| It’s eye-opening to see how even donating clothes can have a negative impact. But I'm not sure how the supply chain part is connected to the overall problem |
