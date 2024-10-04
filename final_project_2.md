@@ -27,7 +27,7 @@ Viz 4: Global market share of different fabrics, 2022
 
 Main Point 2: Supply Chain Pollutions: The impact is not just about the materials. The global supply chain adds another layer of pollution. For instance, dyeing fabrics is responsible for water contamination, while transporting garments across the globe creates massive carbon emissions."
 
-Viz 5: Pollution along the supply chain
+Viz 5: Pollution along the supply chain (I have not worked out a visualization for this section yet. This pic will later be replaced.)
 
 ![viz5](viz5.png)
 
