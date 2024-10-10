@@ -2,7 +2,7 @@
 
 # The final data story
 
-[Shorthand story](https://carnegiemellon.shorthandstories.com/why-are-we-buying-more-clothes-that-dont-last-long/index.html)
+[Why are we buying more clothes that don't last long?](https://carnegiemellon.shorthandstories.com/why-are-we-buying-more-clothes-that-dont-last-long/index.html)
 
 
 # Changes made since Part II
