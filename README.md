@@ -15,3 +15,4 @@ I hope to explore ways to incorporate data visualization into my work in the fut
 Final project 
 [Part I](/final_project_1.md)
 [Part II](/final_project_2.md)
+[Part III](/final_project_3.md)
