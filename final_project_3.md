@@ -6,7 +6,6 @@ https://carnegiemellon.shorthandstories.com/why-are-we-buying-more-clothes-that-
 
 
 # Changes made since Part II
-
 After the user research, I decided to scale down the topic and find a better way to bring in the final call to action. My original topic was the fashion industry's pollution, but some viewers find the information about supply chains and various environmental impacts overwhelming. Since fashion is already a topic people can easily relate to, I decided to make the consumer's perception of the transition in the apparel industry the point of contact. I then focused on introducing the materials used for clothes and their afterlife, the two stages consumers can perceive and be involved in. After that, I can naturally bring in the call to action.
 
 ## The audience
