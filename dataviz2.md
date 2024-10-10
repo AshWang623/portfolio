@@ -1,4 +1,4 @@
-| [home page](https://ashwang623.github.io/portfolio/) | [visualizing debt](/dataviz2.md) | [critique by design](/MakeoverMonday.md) | [final project I](/final_project_1.md) | [final project II](/final_project_1.md) | [final project III](final_project_3.md) |
+| [home page](https://ashwang623.github.io/portfolio/) | [visualizing debt](/dataviz2.md) | [critique by design](/MakeoverMonday.md) | [final project I](/final_project_1.md) | [final project II](/final_project_2.md) | [final project III](final_project_3.md) |
 
 ![Bar chart](https://github.com/AshWang623/portfolio/blob/main/export-2024-09-09T17_11_23.308Z.png?raw=true)
 
