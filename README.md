@@ -1,7 +1,7 @@
 | [home page](https://github.com/AshWang623/portfolio/blob/main/README.md) | [visualizing debt](/dataviz2.md) | [critique by design](/MakeoverMonday.md) | [final project I](/final_project_1.md) | [final project II](/final_project_1.md) | [final project III](final_project_3.md) |
 
 # portfolio
-This is my online portfolio for Telling Stories with Data
+Hi! This is my online portfolio for Telling Stories with Data
 
 # About me
 I'm Ash Wang, a graduate student from the MSPPM flagship program at Heinz School.
