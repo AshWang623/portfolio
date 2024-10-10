@@ -7,14 +7,11 @@ https://carnegiemellon.shorthandstories.com/why-are-we-buying-more-clothes-that-
 
 # Changes made since Part II
 
-Text here!
+After the user research, I decided to scale down the topic and find a better way to bring in the final call to action. My original topic was the fashion industry's pollution, but some viewers find the information about supply chains and various environmental impacts overwhelming. Since fashion is already a topic people can easily relate to, I decided to make the consumer's perception of the transition in the apparel industry the point of contact. I then focused on introducing the materials used for clothes and their afterlife, the two stages consumers can perceive and be involved in. After that, I can naturally bring in the call to action.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My initial audience is the general consumer since everybody buys clothes. After the interview, I decided I should focus on Gen-Z, who is more likely to be swayed by fashion trends. Older generations have gone through times when the main selling point of clothes was high-quality fabrics and tailoring before fast fashion rose in the early 21st century. Therefore, younger people including me have little knowledge about the downside of abusing synthetic materials. I feel like that could be a core argument in my story.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+My interviewees also expressed that altering their original purchasing habits may be hard in consideration of the extra money and time to search for ethical brands or high-quality pieces with styles they like. So I simplified the call to action to be aware of the fabrics you choose and emphasized that it's not just saving the environment but also saving your money to wear long-lasting clothes.
