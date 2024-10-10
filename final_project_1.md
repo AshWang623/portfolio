@@ -1,4 +1,4 @@
-| [home page](https://github.com/AshWang623/portfolio/blob/main/README.md) | [visualizing debt](/dataviz2.md) | [critique by design](/MakeoverMonday.md) | [final project I](/final_project_1.md) | [final project II](/final_project_1.md) | [final project III](final_project_part_3.md) |
+| [home page](https://github.com/AshWang623/portfolio/blob/main/README.md) | [visualizing debt](/dataviz2.md) | [critique by design](/MakeoverMonday.md) | [final project I](/final_project_1.md) | [final project II](/final_project_1.md) | [final project III](final_project_3.md) |
 
 # Summary
 The fashion industry is a significant contributor to global pollution, with a vast environmental cost associated with clothing production, consumption, and disposal. This project aims to shed light on the ecological impact of different types of clothes, tracing the journey from raw material production to the final product consumers buy, and the waste created when clothes are discarded.
